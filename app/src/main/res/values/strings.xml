@@ -1,9 +1,26 @@
 <resources>
     <string name="app_name">Personas</string>
+
     <string name="opcion_crear">Crear</string>
     <string name="opcion_listar">Listar</string>
+
+    <string name="txtTituloCrearPersona">Crear Persona</string>
+    <string name="txtCampo_Cedula_CrearPersona">Cedula</string>
+    <string name="txtCampo_Nombre_CrearCliente">Nombre</string>
+    <string name="txtCampo_Apellido_CrearPersona">Apellido</string>
+    <string name="btnGuardarCliente">Guardar</string>
+    <string name="btnLimpiar_CrearCliente">Limpiar</string>
+
     <string-array name="opciones">
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>
     </string-array>
+
+    <string name="mensaje_guardado">Persona Guardada Exitosamente</string>
+
+    <string name="error_cedula">Digite la cédula</string>
+    <string name="error_nombre">Digite el nombre</string>
+    <string name="error_apellido">Digite el apellido</string>
+    <string name="numero">No.</string>
+
 </resources>
